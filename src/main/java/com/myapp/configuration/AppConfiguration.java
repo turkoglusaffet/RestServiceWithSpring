@@ -8,5 +8,5 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @EnableWebMvc
 @ComponentScan(basePackages = "com.myapp")
 public class AppConfiguration {
-	
+
 }
